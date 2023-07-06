@@ -5,7 +5,7 @@
     <name>youtube dl</name>
     <summary>youtube dl</summary>
     <description><![CDATA[Audio extractor from video files in mp3 within the web interface requires ffmpeg and yt-dlp]]></description>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <licence>agpl</licence>
     <author mail="sgarac@gmail.com" >Sassoun Garac</author>
     <namespace>ytdl</namespace>
