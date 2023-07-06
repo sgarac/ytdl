@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>ytdl</id>
+    <name>youtube dl</name>
+    <summary>youtube dl</summary>
+    <description><![CDATA[Audio extractor from video files in mp3 within the web interface requires ffmpeg and yt-dlp]]></description>
+    <version>0.0.2</version>
+    <licence>agpl</licence>
+    <author mail="sgarac@gmail.com" >Sassoun Garac</author>
+    <namespace>ytdl</namespace>
+    <category>multimedia</category>
+    <category>tools</category>
+    <bugs>https://github.com/sgarac81/ytdl</bugs>
+    <dependencies>
+        <nextcloud min-version="13" max-version="26"/>
+    </dependencies>
+</info>
